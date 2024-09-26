@@ -25,7 +25,7 @@ The company is seeking marketing strategies that will effectively convert casual
 ## Stage 2: Prepare
 **Data Source:**
 
-For this analysis, [Cyclistic’s historical trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) was used. This is public data that has been made available by Motivate International Inc. under the [license](https://ride.divvybikes.com/data-license-agreement).
+For this analysis, [Cyclistic’s historical trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) was used. This is public data that has been made available by Motivate International Inc. 
 
 **Data organization & information:**
 
