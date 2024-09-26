@@ -391,4 +391,4 @@ I have performed my analysis, and gained some insights and created visualization
 - To attract and motivate casual riders to purchase an annual membership, the company can consider launching a new membership program that rewards/incentivize the riders for their usage. For example, riders will collect points depending on the ride length which they can exchange for rewards. Another instance would be creating a ranking system or rider’s community where only members can participate and enjoy excluded and unique features. This program and system not only attract new members but also make existing members continue their membership.
 
 
-[Link to the Tableau Public Presentation](https://public.tableau.com/shared/PM6WF45Z2?:display_count=n&:origin=viz_share_link)
+
