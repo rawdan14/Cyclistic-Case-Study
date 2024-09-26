@@ -49,7 +49,7 @@ Each file consists of the same 13 columns with a total of 5.6 million rows.
 - **end_lng:** station's longitude the ride ended at
 - **member_casual:** casual rider or member rider
 
-Stage 3: Process
+## Stage 3: Process
 
 Before analyzing, the data has to be cleaned. I skimmed through a few files first to get an idea of the data formatting and quality in Microsoft Excel. But, for further process, I decided to use **SQL for data processing, cleaning, and exploration** as SQL is capable of handling large datasets while Microsoft Excel cannot process 5 million rows of data simultaneously.
 
